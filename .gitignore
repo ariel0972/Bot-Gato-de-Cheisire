@@ -1,0 +1,5 @@
+node_modules
+.env
+pontos.json
+pontos-backup.json
+fix.js
