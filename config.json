@@ -1,9 +1,0 @@
-{
-    "$schema": {
-        "prefix": "c!",
-        "channelconfig": {
-            "Allow": [],
-            "Ignored": []
-        }
-    }
-}
