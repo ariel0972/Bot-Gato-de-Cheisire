@@ -7,3 +7,5 @@ pontos.db
 pontos-backup.json
 config.json
 test.js
+fix.js
+package-lock.json
