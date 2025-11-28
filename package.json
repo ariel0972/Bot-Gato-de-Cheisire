@@ -1,0 +1,25 @@
+{
+  "name": "bot-gato-de-cheisire",
+  "version": "1.0.0",
+  "description": "Um bot do Discord com temade Alice no País das Maravilhas",
+  "main": "index.js",
+  "scripts": {
+    "devlog": "node --watch index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ariel",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@keyv/mongo": "^3.0.5",
+    "@napi-rs/canvas": "^0.1.81",
+    "better-sqlite3": "^12.4.1",
+    "discord.js": "^14.23.2",
+    "dotenv": "^17.2.3",
+    "gif-encoder-2": "^1.0.5",
+    "gif-frames": "^1.0.1",
+    "keyv": "^5.5.3",
+    "mongoose": "^8.19.3"
+  }
+}
