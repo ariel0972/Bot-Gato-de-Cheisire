@@ -1,5 +1,9 @@
+# Pastas
 /node_modules
+.package-lock.json
 .env
 pontos.json
+pontos.db
 pontos-backup.json
-fix.js
+config.json
+test.js
